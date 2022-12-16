@@ -1,4 +1,4 @@
-package com.libremobileos.parallelspace;
+package com.custom.parallelspace;
 
 import android.app.Application;
 
